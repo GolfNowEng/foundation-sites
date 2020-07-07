@@ -15,7 +15,7 @@
     "deploy:docs": "gulp deploy:docs"
   },
   "dependencies": {
-    "jquery": "^2.2.0",
+    "jquery": "^3.5.1",
     "what-input": "^2.0.0"
   },
   "license": "MIT",
